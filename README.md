@@ -43,4 +43,4 @@ Loja online de alimentos com um **assistente de compras por IA** que encontra pr
 
 ## 📫 Contato
 
-<a href="https://www.linkedin.com/in/paulo-de-oliveira-a2529b1a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/paulo-oliveira-a2529b1a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
