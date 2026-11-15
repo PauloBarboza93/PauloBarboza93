@@ -1,18 +1,18 @@
-### Olá, eu sou o Paulo Oliveira 👋
+### Hi, I'm Paulo de Tarso 👋
 
-Estudante de Engenharia de Software, construindo projetos **full stack com IA aplicada**: LLM, RAG, MCP e agentes, com Java + Spring Boot no back-end e React no front-end.
+Software Engineering student building **full stack projects with applied AI**: LLMs, RAG, MCP and agents, with Java + Spring Boot on the back end and React on the front end.
 
-## 🛒 Projeto em destaque: [AisleSmart](https://github.com/PauloBarboza93/aislesmart)
+## 🛒 Featured project: [AisleSmart](https://github.com/PauloBarboza93/aislesmart)
 
-Loja online de alimentos com um **assistente de compras por IA** que encontra produtos, responde sobre as políticas da loja citando a fonte e só altera o carrinho com a confirmação do cliente.
+An online grocery store with an **AI shopping assistant** that finds products, answers questions about store policies citing the source, and only changes the cart after the customer confirms.
 
-- **Parte A:** React + Tailwind, Java 21, Spring Boot 4, Spring AI 2.0, PostgreSQL + pgvector e LLM local com Ollama
-- **Parte B:** Machine Learning em Python, com fine-tuning (QLoRA) de um modelo pequeno, avaliação comparativa e publicação no Hugging Face
-- **Status:** 🟡 documentação pronta ([PRD](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/01-PRD.md), [arquitetura](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/02-Arquitetura.md), [modelo de dados](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/03-Modelo-de-dados.md) e [contratos de API](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/04-Contratos-de-API.md)); o código começa nas próximas etapas
+- **Part A:** React + Tailwind, Java 21, Spring Boot 4, Spring AI 2.0, PostgreSQL + pgvector and a local LLM with Ollama
+- **Part B:** Machine Learning in Python, with fine-tuning (QLoRA) of a small model, comparative evaluation and publishing on Hugging Face
+- **Status:** 🟡 documentation ready ([PRD](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/01-PRD.md), [architecture](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/02-Arquitetura.md), [data model](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/03-Modelo-de-dados.md) and [API contracts](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/04-Contratos-de-API.md), written in Portuguese); coding starts in the next stages
 
-## 🛠️ Tecnologias
+## 🛠️ Tech stack
 
-**Back-end, dados e IA**
+**Back end, data and AI**
 
 <div>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -22,7 +22,7 @@ Loja online de alimentos com um **assistente de compras por IA** que encontra pr
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
-**Front-end**
+**Front end**
 
 <div>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,13 +34,13 @@ Loja online de alimentos com um **assistente de compras por IA** que encontra pr
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-**Ferramentas**
+**Tools**
 
 <div>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-## 📫 Contato
+## 📫 Contact
 
 <a href="https://www.linkedin.com/in/paulo-oliveira-a2529b1a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
