@@ -22,6 +22,7 @@ An online grocery store with an **AI shopping assistant** that finds products, a
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 <br>
+
 **Front end**
 
 <div>
@@ -34,6 +35,7 @@ An online grocery store with an **AI shopping assistant** that finds products, a
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
+
 **Tools**
 
 <div>
