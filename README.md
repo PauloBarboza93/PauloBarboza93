@@ -1,4 +1,4 @@
-### Hi, I'm Paulo de Tarso 👋
+### Hi, I'm Paulo Oliveira 👋
 
 Software Engineering student building **full stack projects with applied AI**: LLMs, RAG, MCP and agents, with Java + Spring Boot on the back end and React on the front end.
 
@@ -21,7 +21,7 @@ An online grocery store with an **AI shopping assistant** that finds products, a
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
-
+<br>
 **Front end**
 
 <div>
@@ -33,7 +33,7 @@ An online grocery store with an **AI shopping assistant** that finds products, a
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
+<br>
 **Tools**
 
 <div>
