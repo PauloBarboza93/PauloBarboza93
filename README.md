@@ -8,7 +8,7 @@ An online grocery store with an **AI shopping assistant** that finds products, a
 
 - **Part A:** React + Tailwind, Java 21, Spring Boot 4, Spring AI 2.0, PostgreSQL + pgvector and a local LLM with Ollama
 - **Part B:** Machine Learning in Python, with fine-tuning (QLoRA) of a small model, comparative evaluation and publishing on Hugging Face
-- **Status:** 🟡 documentation ready ([PRD](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/01-PRD.md), [architecture](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/02-Arquitetura.md), [data model](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/03-Modelo-de-dados.md), [API contracts](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/04-Contratos-de-API.md) and [MCP tools](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/05-Ferramentas-MCP.md), written in Portuguese); coding starts in the next stages
+- **Status:** 🟡 documentation ready ([PRD](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/01-PRD.md), [architecture](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/02-Arquitetura.md), [data model](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/03-Modelo-de-dados.md), [API contracts](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/04-Contratos-de-API.md), [MCP tools](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/05-Ferramentas-MCP.md) and [agents](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/06-Agentes.md), written in Portuguese); [Machine Learning design](https://github.com/PauloBarboza93/aislesmart/blob/main/docs/07-Machine-Learning.md) in progress; coding starts next
 
 ## 🛠️ Tech stack
 
